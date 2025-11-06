@@ -30,11 +30,13 @@
         "extensions": [
             "ZixuanWang.linkerscript",
             "ms-vscode.cpptools",
-            "davidbwaters.macos-modern-theme",
             "maziac.hex-hover-converter",
             "ms-vscode.hexeditor",
             "trond-snekvik.gnu-mapfiles",
-            "joshuabernstein.armextensionhelpers"
+            "joshuabernstein.armextensionhelpers",
+            "GitHub.copilot",
+            "GitHub.copilot-chat",
+            "DavidAnson.vscode-markdownlint"
             ]
         }
     },
