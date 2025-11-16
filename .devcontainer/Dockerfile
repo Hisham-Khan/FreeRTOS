@@ -22,6 +22,7 @@ RUN sudo apt-get install --no-install-recommends -y \
   make \
   qemu-system-arm \
   gcc-arm-none-eabi \
+  libnewlib-arm-none-eabi \
   gdb-multiarch
 
 # terminal colors with xterm

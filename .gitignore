@@ -1,5 +1,6 @@
 .gdb_history
+boot.elf
+boot.elf.debug
+boot.elf.lst
 boot.o
-main.elf
-main.elf.debug
-main.elf.lst
+start.o
